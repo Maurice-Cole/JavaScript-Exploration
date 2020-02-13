@@ -1,0 +1,46 @@
+body{
+    text-align:center;
+}
+img {
+ width:200px;   
+}
+h1{
+   font-family: 'Shrikhand', cursive; 
+}
+h3{
+    font-family: 'Shrikhand', cursive;
+}
+p{
+    font-family: 'Quicksand', sans-serif;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+button {
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    background-color: #e4a4ee;
+    display: inline-block;
+    font-size: 14px;
+    font-family: 'Quicksand', sans-serif;
+    margin-top:3px;
+}
+
+.breaker {
+    border-bottom: 10px dashed #fee975;
+    padding: 0px;
+    margin: 0px;
+}
+
+.map {
+    width: 400px;
+}
+
+div {
+    margin-bottom: 100px;   
+}
